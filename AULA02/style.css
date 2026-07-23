@@ -1,0 +1,22 @@
+* {
+    background: linear-gradient(to bottom right, #fdfbfb, #ebedee);
+    text-align: center;
+}
+
+h1, h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(55, 53, 53);
+}
+
+img{
+    border-radius: 50px;
+    text-align: right;
+}
+body{
+     font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+}
